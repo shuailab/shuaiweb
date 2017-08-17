@@ -17,23 +17,20 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "English"
+    url = "/en/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Chinese"
+    url = "/cn/"
     weight = 3
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
     weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
 [params]
-    description = "Personal Website of Shuai Huang."
+    description = "Personal Website"
     footer = "&copy; [Shuai Huang](https://shuaihuang.info) 2017 | [Github](https://github.com/shuailab)"
 
   highlightjsVersion = "9.12.0"
